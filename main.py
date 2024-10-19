@@ -1,5 +1,5 @@
 ﻿def guess_number():
-    print("Добро пожаловать в игру 'Угадай число'!")
+    print("Добро пожаловать в игру 'Guess the Number'!")
     secret_number = 42  # Установим число для угадывания
     attempts = 0
 
